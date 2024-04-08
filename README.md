@@ -1,9 +1,8 @@
-# Predictive Analytics Library
+# Machine Learning Predictions of House Prices in Poland
 
-## Overview and Objective
+## Overview and Objective - Predictive Analytics Library
 
-The objective of this project is to build the architecture of a scalable and functional library focused on predictive analytics. The project was developed as the final project for a Computing for Data Science course  within the Data Science for Decision Making Master's program at the Barcelona School of Economics.
-
+The objective of this project is to build the architecture of a scalable and functional library focused on predictive analytics. 
 The library is designed to handle tasks such as loading data, preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation. The goal is to create a structured and extensible framework that can be easily scaled as the project evolves.
 
 ## Dataset
